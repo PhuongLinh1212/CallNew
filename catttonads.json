@@ -1,10 +1,10 @@
 {
   "ads": {
     "id_app": "",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "banner_setting": "ca-app-pub-2277813866725244/4934223753",
+    "inter_setting": "ca-app-pub-2277813866725244/8793577718",
+    "banner_main": "ca-app-pub-2277813866725244/4202761867",
+    "inter_main": "ca-app-pub-2277813866725244/2942485237",
     "fb_banner": "",
     "fb_inter": "",
     "banner_setting_new": "",
@@ -15,10 +15,10 @@
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "com.videocall.scaryteacher.v2",
+    "id": "com.video.cartoon.callcat.videocall",
     "is_exists": true,
     "is_show_more": false,
-    "isShowAds":false
+    "isShowAds":true
   },
   "apps": [
     {
