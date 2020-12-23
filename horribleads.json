@@ -11,8 +11,8 @@
     "inter_setting_new": "ca-app-pub-2277813866725244/8629926180",
     "banner_main_new": "ca-app-pub-2277813866725244/7316844514",
     "inter_main_new": "ca-app-pub-2277813866725244/4690681179",
-    "onlyAdmod": false,
-    "onlyFB": true
+    "onlyAdmod": true,
+    "onlyFB": false
   }, 
   "app_exists": {
     "id": "com.guide.scary.call.teacher3d.prank.scaryteachercall",
